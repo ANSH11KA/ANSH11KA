@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @ANSH11KA
 - 👀 I’m interested in learning new logic every minute
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by :
                          email: chaturvedianshika17@gmail.com
                          linkdeIn: Anshika chaturvedi(https://www.linkedin.com/in/anshika-chaturvedi-434a93220?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact:
 
 <!---
 ANSH11KA/ANSH11KA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
