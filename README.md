@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development
 - 📫 How to reach me by :
                          email: chaturvedianshika17@gmail.com
-                         linkdeIn: Anshika chaturvedi(https://www.linkedin.com/in/anshika-chaturvedi-434a93220?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+                         linkdeIn: Anshika chaturvedi(www.linkedin.com/in/anshika-chaturvedi-434a93220)
 - 😄 Pronouns: She/Her
 
 <!---
